@@ -2,6 +2,10 @@
  * Jeu de Fevga en Python jouable via terminal.
  * Il y a une option PVP et une avec une IA.
  * Les librairies nécessaires sont ast, typing, random, datetime et colorama.</br>
+# Résumé de la commande
+ * A faire sous 7 jours, puis 12.
+ * Contrainte de développement sans interface graphique.
+ * Cahier des charges inconstant.
 # Principe du jeu
  * Le jeu de Fevga est un jeu de plateau traditionnel qui se joue avec des dés. Le but est de déplacer tous ses pions de sa zone de départ vers sa zone d'arrivée en utilisant les résultats des dés. Les joueurs se relaient pour lancer les dés et déplacer leurs pions. Le jeu combine chance et stratégie, et le premier joueur à déplacer tous ses pions en premier gagne.
  * Plus d'information dans le dossier **Sources** et https://www.bkgm.com/variants/Fevga.html
